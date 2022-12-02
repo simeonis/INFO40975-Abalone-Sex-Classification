@@ -1,1 +1,5 @@
 # INFO40975-Abalone-Sex-Classification
+
+Abalone's are an important organism that inhabit some of the most productive and biodiverse places on the planet. They are hugely responsible for increasing the kelp diversity by clearing patches (grazing) which allows for different kelp species to flourish. Kelp play an incredibly important role in ocean ecosystems, and thus so do abalones. Being able to detect the sex of an abalone can provide useful information on how their population is reproducing. This project explores several machine learning algorithms to classify the sex of an abalone based on several different measurement attributes. Results show that despite having high accuracy between detecting an adult abalone against an infant, the current attributes used are not sufficient to create an acceptable model for detecting males and females. The best performing model, Logistic Regression, only managed a peak accuracy of 56% after tuning.
+
+Video explanation link: https://www.youtube.com/watch?v=M9p42AbSWk0
